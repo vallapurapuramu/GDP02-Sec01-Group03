@@ -2,6 +2,13 @@
 # InternManager
 A Repo to develop a  Web Application that looks good on any device. The application is a Internmanager which is used to manage all the students who wants to apply for internships.
 
+  ### Documents:
+  #### [Link to Doc Repo](https://github.com/vallapurapuramu/internmanager-documentation)
+  #### [Link to Swagger](https://github.com/vallapurapuramu/swagger-github-pages)
+  #### [link to test coverage report](https://github.com/vallapurapuramu/testcoverage-intermanager)
+  
+  ### Repository Links for Code
+
  #### [Link to Backend Repo](https://github.com/vallapurapuramu/intermanager-backend.git)
  #### [Link to Frontend Repo](https://github.com/vallapurapuramu/intermangaer-ui)
  #### [Link to Wiki](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager/wiki)
