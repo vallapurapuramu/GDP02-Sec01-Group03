@@ -41,6 +41,7 @@ A Repo to develop a  Web Application that looks good on any device. The applicat
 The Application development is planned using our [Project Board](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager/projects/1?add_cards_query=is%3Aopen) and our weekly progress is communicated through [Wiki](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager/wiki).
 
 ### Google Analytics
+![Google Analytics](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager/blob/main/GoogleAnalyticsImages/analytics.png)
 
 
  
