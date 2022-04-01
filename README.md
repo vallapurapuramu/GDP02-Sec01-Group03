@@ -1,6 +1,10 @@
 ## GDP02-Sec01-Group03
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9ad691db3fe54fae9bea9ac27f0624d2)](https://www.codacy.com/gh/vallapurapuramu/intermangaer-ui/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vallapurapuramu/intermangaer-ui&amp;utm_campaign=Badge_Grade)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/{vallapurapuramu}/{intermanager-backend}/badge.svg)](https://snyk.io/test/github/{vallapurapuramu}/{intermanager-backend})
+
+
 # InternManager
 A Repo to develop a  Web Application that looks good on any device. The application is a Internmanager which is used to manage all the students who wants to apply for internships.
 
