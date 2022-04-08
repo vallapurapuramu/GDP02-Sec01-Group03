@@ -12,6 +12,7 @@ A Repo to develop a  Web Application that looks good on any device. The applicat
   #### [Link to Doc Repo](https://github.com/vallapurapuramu/internmanager-documentation)
   #### [Link to Swagger](https://github.com/vallapurapuramu/swagger-github-pages)
   #### [link to test coverage report](https://github.com/vallapurapuramu/testcoverage-intermanager)
+  #### [link to presentation](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager/blob/main/Sec01-Group03.pptx)
   
   ### Repository Links for Code
 
